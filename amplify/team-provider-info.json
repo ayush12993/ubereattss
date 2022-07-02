@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-letseattog-staging-92421-authRole",
+      "UnauthRoleArn": "arn:aws:iam::344401248401:role/amplify-letseattog-staging-92421-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::344401248401:role/amplify-letseattog-staging-92421-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-letseattog-staging-92421-deployment",
+      "UnauthRoleName": "amplify-letseattog-staging-92421-unauthRole",
+      "StackName": "amplify-letseattog-staging-92421",
+      "StackId": "arn:aws:cloudformation:us-east-1:344401248401:stack/amplify-letseattog-staging-92421/6fd22870-eee8-11ec-a7e6-0e4b3db765c5",
+      "AmplifyAppId": "d1g87556ia5qxi"
+    },
+    "categories": {
+      "auth": {
+        "LetsEatTog": {}
+      }
+    }
+  }
+}
